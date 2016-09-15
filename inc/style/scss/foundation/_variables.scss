@@ -1,0 +1,26 @@
+$em-base: 16px !default;
+$body-font-family: "Open Sans", "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$body-font-weight: 400;
+
+$primary-color: #019875;
+$secondary-color: #980124;
+
+$small-screen: 530px;
+$medium-screen: 800px;
+$large-screen: 1280px;
+
+$row-width: 1280px;
+
+$header-font-family: "Open Sans", "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$header-font-weight: 300;
+$header-font-color: $primary-color;
+
+$subheader-font-color: $secondary-color;
+
+$button-margin-bottom: em-calc(0);
+
+$list-side-margin: 24px;
+
+$topbar-height: 75px;
+$topbar-title-weight: 100;
+$topbar-title-font-size: 24px;
